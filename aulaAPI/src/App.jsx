@@ -13,7 +13,7 @@ function App(){
       <hr/>
       <Routes>
         <Route path="/" element={<Home/>}/>
-        <Route path="/pokeomon" element={<Pokemon/>}/>
+        <Route path="/pokemon" element={<Pokemon/>}/>
       </Routes>
     </div>
   )
